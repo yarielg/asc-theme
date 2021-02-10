@@ -4,7 +4,7 @@ Tags: blog, custom-menu, featured-images, threaded-comments, translation-ready, 
 Requires at least: 4.0
 Tested up to: 4.7
 
-Copyright (c) 2016 by Afterimage Designs (http://afterimagedesigns.com/)
+Copyright (c) 2020 by WEBREADY (http://webreadynow.com/)
 This Theme is distributed under the terms of the GNU GPL.
 
 License: GNU General Public License v2.0
